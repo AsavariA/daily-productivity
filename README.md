@@ -1,6 +1,6 @@
 ## Project Details.
-Hosted at https://daily-productivity.web.app/
-Medium Blog https://ambavaneasavari.medium.com/creating-a-daily-productivity-app-in-reactjs-9c8a45ea2ead
+Hosted at [here](https://daily-productivity.web.app/) \
+Medium Blog [here](https://ambavaneasavari.medium.com/creating-a-daily-productivity-app-in-reactjs-9c8a45ea2ead)
 
 ### Getting Started with Create React App
 
